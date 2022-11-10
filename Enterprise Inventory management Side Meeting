@@ -1,0 +1,18 @@
+The meeting was scheduled in Tuesday morning 8:30~9:30am in Mezzanine 12. The meeting was well attended, all proponents of three drafts including service providers joined the discussion. Rob Wilton OPS AD also joined the meeting and provided guidance and suggestion for the way forward. 
+
+There were several observations from the meeting. 
+
+- Need alignment between survey work. The relevant model work is subject to change based on alignment discussion. Highlight existing IETF I-Ds that cover devices (optical, enterprise, IoT, et al.), services and network;
+- Coordination after the analysis could be achieved via a mailing list, or even a Working Group if enough people support it;
+- Cook book" coordination to build a picture of how models can be used together to construct management systems has a lot of resonance, digital twin, closed loop could be in the scope based on feedback besides inventory management.;
+- Duplication across multiple documents should be avoided;
+- Separate architecture documents is not recommended based on feedback from AD Rob;
+- Ensure we have looked at Open Config efforts, and identify gaps where required;
+- Rob suggested a mailing list to help coordinate the work, and keep the option open of discussing if this work should be conducted using a Working Group;
+- Not entirely clear on what the outcomes will be of a Working Group – but that’s ok for now –  initially it might coordinate discussion and models across existing working groups, then it could end up with three level work, e.g.,
+-	Common types for inventory management
+-	Base YANG model for inventory management of nodes and links
+-	Many augmentation models for technology and applications
+- Rob preference is a general model, that could then be augmented by technology specific extensions;
+
+Overall, a very positive and productive meeting with several participants voicing support to continue the work.
